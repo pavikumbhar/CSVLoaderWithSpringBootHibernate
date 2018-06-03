@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CSVLoaderWithSpringBootHibernate
+Implementation-Version: 0.0.1
+Built-By: pavikumbhar
+Implementation-Vendor-Id: com.pravinkumbhar
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CSVLoaderWithSpringBootHibernate
+Created-By: Maven Integration for Eclipse
+
